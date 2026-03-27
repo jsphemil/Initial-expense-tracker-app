@@ -1,3 +1,4 @@
+.npm-cache/
 node_modules/
 frontend/dist/
 backend/expense_tracker.db
