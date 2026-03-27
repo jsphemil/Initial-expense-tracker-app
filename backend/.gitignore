@@ -1,0 +1,4 @@
+.env
+expense_tracker.db
+expense_tracker.db-shm
+expense_tracker.db-wal
