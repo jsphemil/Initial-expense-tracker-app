@@ -1,7 +1,0 @@
-
-> backend@1.0.0 start
-> node src/index.js
-
-[dotenv@17.3.1] injecting env (3) from .env -- tip: ⚙️  override existing env vars with { override: true }
-Expense tracker backend running on http://localhost:4000
-Allowed CORS origins: http://127.0.0.1:5173, http://localhost:5173

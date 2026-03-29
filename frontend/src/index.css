@@ -1,7 +1,17 @@
 :root {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: #0f172a;
-  background: linear-gradient(180deg, #f8fafc 0%, #f1f5f9 100%);
+  --bg-1: #050d1d;
+  --bg-2: #0b1a30;
+  --surface: #0f2138;
+  --text-main: #dbeafe;
+  --text-muted: #9bb5cb;
+  --accent-cyan: #22d3ee;
+  --accent-green: #34d399;
+  color: var(--text-main);
+  background:
+    radial-gradient(circle at 20% 0%, rgba(34, 211, 238, 0.18), transparent 44%),
+    radial-gradient(circle at 85% 100%, rgba(52, 211, 153, 0.22), transparent 48%),
+    linear-gradient(160deg, var(--bg-1), var(--bg-2));
 }
 
 * {
@@ -10,4 +20,6 @@
 
 body {
   margin: 0;
+  min-height: 100vh;
+  background: transparent;
 }
