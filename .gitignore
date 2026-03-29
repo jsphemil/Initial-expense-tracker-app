@@ -6,3 +6,4 @@ backend/expense_tracker.db-shm
 backend/expense_tracker.db-wal
 backend/.env
 frontend/.env
+backend/backend.log
