@@ -8,7 +8,7 @@ Use this exact prompt next time:
 ## Current Checkpoint
 - Date: 2026-03-29
 - Branch: `main`
-- Last commit hash: `9b5fb18`
+- Last commit hash: `3803c7f`
 - Stable checkpoint tag: `checkpoint-2026-03-29`
 
 ## What Is Done
